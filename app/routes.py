@@ -9,11 +9,11 @@ def index():
     user = {'username': 'Chrisna'}
     posts = [
         {
-            'author': {'username': 'John'},
+            'author': {'username': 'Adhi'},
             'body': 'Nice move you got there!'
         },
         {
-            'author': {'username': 'Susan'},
+            'author': {'username': 'Pranoto'},
             'body': 'Touhou 3D - Imperishable Night is the most nice things in 2020!'
         }
     ]
